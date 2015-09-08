@@ -7,3 +7,6 @@ var Child = React.createClass({
         );
     }
 });
+
+
+module.exports = Child;
